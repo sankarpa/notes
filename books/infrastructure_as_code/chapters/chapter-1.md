@@ -37,11 +37,11 @@ Infrastructure as a code  has come into its own with the cloud , because it's di
 * Use Definition Files
 * Self documented systems and process
 * Version all the things for 
-* Traceability
-* Rollback
-* Visibility
-* Correlation 
-* Actionability
+   * Traceability
+   * Rollback
+   * Visibility
+   * Correlation 
+   * Actionability
 * Continuously test systems and process
 * Small changes rather than batches
 * Keep services available continuously
