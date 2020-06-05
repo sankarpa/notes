@@ -1,8 +1,8 @@
-#Chapter 1 - Challenges and Principles
+# Chapter 1 - Challenges and Principles
                                      
 Infrastructure as code is an approach to infrastructure automation based on practices from software development. It emphasizes consistent, repeatable routines for provisioning and changing systems and their configuration. Changes are made to definitions and then rolled out to systems through unattended processes that include thorough validation.
                     
-##Goals of Infrastructure as Code
+## Goals of Infrastructure as Code
 * Supports and enables change, rather than being an obstacle  or a constraint.
 * Changes to system are routine without stress or drama to IT staff
 * Enables IT staff to spend their time in valuable things that engage their abilities, not on routine, repetitive tasks.
@@ -15,7 +15,7 @@ Infrastructure as a code  has come into its own with the cloud , because it's di
 
 ```Dynamic Infrastructure - The ability to create and destroy servers programmatically.```
 
-##Challenges with Dynamic Infrastructure
+## Challenges with Dynamic Infrastructure
 * Server sprawl 
 * Configuration Drift
 * Snowflake servers
@@ -25,7 +25,7 @@ Infrastructure as a code  has come into its own with the cloud , because it's di
 
 ![Automation Fear](/resources/automation-fear-spiral.png)
 
-##Principles of Infrastructure as code
+## Principles of Infrastructure as code
 * Systems to be easily reproducible 
 * Systems are Disposable 
 * Treat your servers like cattles, not pets
